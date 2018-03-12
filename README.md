@@ -14,7 +14,7 @@ Note that evaluation firmware provided in this repository uses a fixed and publi
 
 ## How Does The Asset Tracker Work?
 
-The Smart City Asset Tracker Firmware Core remains asleep convserving battery energy until motion is detected. The device scans the environment for WiFi signals and transmits the captured information in a short uplink transmission.  The application server is configured to forward the packet information to the COLLOS lookup system which performs the triangulation calculations to position your device anywhere - even indoors - within the smart city.  The Asset Tracker Firmware Core performs sophisticated processing to make intelligent decisions on when to activate the use of the WiFi and uplink transmitter to maximum battery life in real-life situations.
+The Smart City Asset Tracker Firmware Core remains asleep conserving battery energy until motion is detected. The device scans the environment for WiFi signals and transmits the captured information in a short uplink transmission.  The application server is configured to forward the packet information to the COLLOS lookup system which performs the triangulation calculations to position your device anywhere - even indoors - within the smart city.  The Asset Tracker Firmware Core performs sophisticated processing to make intelligent decisions on when to activate the use of the WiFi scanner radio and uplink transmitter to maximize battery life in real-life situations.
 
 ## Why Build Devices With Asset Tracker Firmware Cores?
 
