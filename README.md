@@ -1,6 +1,8 @@
 #  Internet of Things Smart City Asset Tracker Firmware Core
 
-This IoT Firmware Core enables asset tracking functionality on your STM32L152 MCU based product using WiFi and LoRaWAN. The Asset Tracker Firmware Core enables your device to sniff WiFi signals in the smart city environment to achieve best-in-class power consumption, beating out competitor offerings that use GPS receivers.  The LoRaWAN backhaul technology enables another level of reduced power consumption compared to existing cellular technologies. This Firmware Core can enable your product enter new markets and disrupt existing ones.
+Build an ultra-low-power asset tracking tag for the LoRaWAN IoT smart city network that works just as well indoors as it does outdoors.
+
+This IoT Firmware Core enables asset tracking functionality on your STM32L152 MCU based product using WiFi and LoRaWAN. The Asset Tracker Firmware Core enables your device to sniff WiFi signals in the smart city environment to achieve best-in-class power consumption, beating out competitor offerings that use GPS receivers.  The LoRaWAN backhaul technology enables another level of reduced power consumption compared to existing cellular technologies. This Firmware Core can enable your product to enter new markets and disrupt existing ones.
 
 
 ## Evaluation Firmware
