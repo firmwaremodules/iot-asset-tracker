@@ -9,7 +9,7 @@ This IoT Firmware Core enables asset tracking functionality on your STM32L152 MC
 
 This IoT Asset Tracker Firmware Core runs on an easy to assemble evaluation platform based on components from ST Microelectronics.
 
-The evaluation firmware available in this repository is free to use on the specified evaluation platform.  Without an authorization key, the firmware will run for 30 minutes before the radio shuts off.  Simply contact us to receive a free authorization key to enable unlimited evaluation or educational use. Send your device's EUI/UID as reported in the console and we will promptly generate the authorization key specific to your device.
+The evaluation firmware available in this repository is free to use on the specified evaluation platform.  Without an authorization key, the firmware application will run normally for 30 minutes after each power cycle.  Simply contact us to receive a free authorization key to enable unlimited evaluation or educational use. Send your device's EUI/UID as reported by the console command 'mta get' and we will promptly generate the authorization key specific to your device.
 
 Note that evaluation firmware provided in this repository uses a fixed and public LoRaWAN AppKey that you use to connect your device to your specific LoRaWAN application. [TBD]
 
