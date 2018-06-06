@@ -4,14 +4,20 @@ Build an ultra-low-power asset tracking tag for the LoRaWAN IoT smart city netwo
 
 This IoT Firmware Core enables asset tracking functionality on your STM32L152 MCU based product using WiFi and LoRaWAN. The Asset Tracker Firmware Core enables your device to sniff WiFi signals in the smart city environment to achieve best-in-class power consumption, beating out competitor offerings that use GPS receivers.  The LoRaWAN backhaul technology enables another level of reduced power consumption compared to existing cellular technologies. This Firmware Core can enable your product to enter new markets and disrupt existing ones.
 
+## Firmware Releases
+
+[Latest release binary](https://github.com/firmwaremodules/iot-asset-tracker/releases/latest)
+
+| Target | IoT Firmware Core | Release Notes |
+| ------ | ---- | ------------- |
+| STM32L152RE + SPWF01SA + LORA | [WPS_EVAL_STM32L1_SPWF01SA_LORA_v1.bin](https://github.com/firmwaremodules/iot-asset-tracker/releases/download/v1/WPS_EVAL_STM32L1_SPWF01SA_LORA_v1.bin) | Initial release |
+
 
 ## Evaluation Firmware
 
 This IoT Asset Tracker Firmware Core runs on an easy to assemble evaluation platform based on components from ST Microelectronics.
 
-The evaluation firmware available in this repository is free to use on the specified evaluation platform.  Without an authorization key, the firmware application will run normally for 30 minutes after each power cycle.  Simply contact us to receive a free authorization key to enable unlimited evaluation or educational use. Send your device's EUI/UID as reported by the console command 'mta get' and we will promptly generate the authorization key specific to your device.
-
-Note that evaluation firmware provided in this repository uses a fixed and public LoRaWAN AppKey that you use to connect your device to your specific LoRaWAN application. [TBD]
+The evaluation firmware available in this repository is free to use on the specified evaluation platform.  Without an authorization key, the firmware application will run normally for 30 minutes after each power cycle.  Simply contact us to receive a free authorization key to enable unlimited evaluation or educational use. Send your device's DevEUI as reported by the console command 'mta get' and we will promptly generate the authorization key specific to your device.
 
 
 ## How Does The Asset Tracker Work?
