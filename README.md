@@ -10,7 +10,7 @@ This IoT Firmware Core enables asset tracking functionality on your STM32L152 MC
 
 | Target | IoT Firmware Core | Release Notes |
 | ------ | ---- | ------------- |
-| STM32L152RE + SPWF01SA + LORA | [WPS_EVAL_STM32L1_SPWF01SA_LORA_v1.bin](https://github.com/firmwaremodules/iot-asset-tracker/releases/download/v1/WPS_EVAL_STM32L1_SPWF01SA_LORA_v1.bin) | Initial release |
+| STM32L152RE + SPWF01SA + LORA | [WPS_EVAL_STM32L1_SPWF01SA_LORA_v1.bin](https://github.com/firmwaremodules/iot-asset-tracker/releases/download/v1/WPS_EVAL_STM32L1_SPWF01SA_LORA_v1.bin) | Initial pre-release |
 
 
 ## Evaluation Firmware
